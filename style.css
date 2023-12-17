@@ -29,6 +29,7 @@ body {
 
 .pageCont {
   box-align: center;
+  size: 75%;
   background-color: darkgrey;
 }
 
@@ -49,7 +50,7 @@ body {
 }
 
 .lists{
-  text-align: left;
+  text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 14px;
   color: darkslategrey;
