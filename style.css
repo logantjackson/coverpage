@@ -6,7 +6,9 @@ body {
   text-align: center;
 }
 
-
+.list-inside li {
+  list-style-position: inside;
+}
 
 .img {
   .center {
