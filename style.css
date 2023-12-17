@@ -1,7 +1,10 @@
+/* Adds backround color */
 body {
   background-color: #ADD8E6;
 }
 
+
+/* Centers text */
 .text-centered {
   text-align: center;
 }
