@@ -1,0 +1,67 @@
+body {
+  background-color: #ADD8E6;
+}
+
+.text-centered {
+  text-align: center;
+}
+
+
+
+.img {
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  border-radius: 25%;
+  size: 200px;
+}
+
+.headers {
+  text-align: center;
+  font-family: "Chalkduster", fantasy;
+  font-size: 25px;
+  color: black;
+  
+}
+
+.pageCont {
+  width: 650px;
+  padding: 20px; 
+  background-color: darkgrey;
+}
+
+.textContainer {
+  float: center;
+  width: 200px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.imageCont {
+  size: 150%;
+}
+
+.paragraphs {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color: black;
+}
+
+.lists{
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  color: darkslategrey;
+}
+
+.footer {
+  text-align: center;
+  font-family: Courier New, monospace;
+  font-size: 20px;
+  text: bold;
+  color: black;
+}
