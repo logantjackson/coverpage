@@ -29,16 +29,12 @@ body {
 
 .pageCont {
   box-align: center;
-  width: 650px;
-  padding: 20px; 
   background-color: darkgrey;
 }
 
 .textContainer {
   box-align: center;
   width: 300px;
-  margin-left: 20px;
-  margin-top: 20px;
 }
 
 .imageCont {
