@@ -6,24 +6,27 @@ body {
   text-align: center;
 }
 
+/* Allows buulet points inside of pageCont */
 .list-inside li {
   list-style-position: inside;
 }
 
+/* Centers image */
 .img {
   display: block;
   width: 60%;
   size: 100px;
   }
 
+/* Centers Header, adds font/size, makes color black */
 .headers {
   text-align: center;
   font-family: "Chalkduster", fantasy;
   font-size: 25px;
-  color: black;
-  
+  color: black;  
 }
 
+/* Aligns container-center, adds margins to each side, makes size 75%, adds darkgrey backround */
 .pageCont {
   box-align: center;
   margin: 20px 15px 20px 15px
@@ -31,16 +34,14 @@ body {
   background-color: darkgrey;
 }
 
+/* Centers textCont, adds margins, adds width */
 .textCont {
   box-align: center;
   margin: 15px 15px 15px 15px;
   width: 60%;
 }
 
-.imageCont {
-  size: 150%;
-}
-
+/* Centers text, adds font/size, makes color black */
 .paragraphs {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -48,6 +49,7 @@ body {
   color: black;
 }
 
+/* Centers list, adds font/size/color */
 .lists{
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -55,6 +57,7 @@ body {
   color: darkslategrey;
 }
 
+/* Centers footer, adds mfont/size/color */
 .footer {
   text-align: center;
   font-family: Courier New, monospace;
