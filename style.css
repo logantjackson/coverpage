@@ -3,7 +3,6 @@ body {
   background-color: #ADD8E6;
 }
 
-
 /* Centers text */
 .text-centered {
   text-align: center;
@@ -13,12 +12,6 @@ body {
 .list-inside li {
   list-style-position: inside;
 }
-
-/* Centers image */
-.img {
-  display: block;
-  width: 60%;
-  }
 
 /* Centers Header, adds font/size, makes color black */
 .headers {
