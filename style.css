@@ -34,7 +34,7 @@ body {
 /* Aligns container-center, adds margins to each side, makes size 75%, adds darkgrey backround */
 .pageCont {
   text-align: center;
-  margin: 20px;
+  margin: 2px;
   width: 75%;
   background-color: darkgrey;
 }
