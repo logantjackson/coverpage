@@ -15,7 +15,7 @@ body {
   margin-right: auto;
   height: auto;
   padding: auto;
-  width: 25%;
+  width: 75%;
 }
 
 /* Allows buulet points inside of pageCont */
@@ -34,7 +34,8 @@ body {
 /* Aligns container-center, adds margins to each side, makes size 75%, adds darkgrey backround */
 .pageCont {
   box-align: center;
-  margin: 25px 15px 20px 15px
+  margin: 25px 15px 20px 15px;
+  size: 100%;
   height: auto;
   padding: auto;
   background-color: darkgrey;
