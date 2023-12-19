@@ -15,7 +15,7 @@ body {
   margin-right: auto;
   height: 50%;
   width: 75%;
-  padding: 10px;
+  padding: 2px;
 }
 
 /* Allows buulet points inside of pageCont */
@@ -39,7 +39,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: darkgrey;
-  padding: 10px;
+  padding: 2px;
 }
 
 /* Centers textCont, adds margins, adds width */
