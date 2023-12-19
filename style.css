@@ -13,7 +13,8 @@ body {
    display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 75%;
+  height: 50px;
+  width: 75px;
   padding: 10px;
 }
 
@@ -38,6 +39,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: darkgrey;
+  padding: 10px;
 }
 
 /* Centers textCont, adds margins, adds width */
