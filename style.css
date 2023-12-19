@@ -38,6 +38,7 @@ body {
   margin: auto;
   width: 75%;
   background-color: darkgrey;
+  padding: 3px;
 }
 
 /* Centers textCont, adds margins, adds width */
