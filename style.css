@@ -37,7 +37,7 @@ body {
 }
 
 /* Centers text, adds font/size, makes color black */
-.paragraphs {
+.p {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 15px;
