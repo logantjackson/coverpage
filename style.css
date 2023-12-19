@@ -8,6 +8,14 @@ body {
   text-align: center;
 }
 
+/* Centers image */
+.imgCont {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 /* Allows buulet points inside of pageCont */
 .list-inside li {
   list-style-position: inside;
