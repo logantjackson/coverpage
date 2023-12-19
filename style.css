@@ -34,8 +34,7 @@ body {
 /* Aligns container-center, adds margins to each side, makes size 75%, adds darkgrey backround */
 .pageCont {
   box-align: center;
-  margin: 20px 15px 20px 15px
-  size: 75%;
+  margin: 25px 15px 20px 15px
   height: auto;
   padding: auto;
   background-color: darkgrey;
