@@ -34,7 +34,7 @@ body {
 /* Aligns container-center, adds margins to each side, makes size 75%, adds darkgrey backround */
 .pageCont {
   text-align: center;
-  margin: 2px;
+  margin: auto;
   width: 75%;
   background-color: darkgrey;
 }
@@ -42,13 +42,13 @@ body {
 /* Centers textCont, adds margins, adds width */
 .textCont {
   text-align: center;
-  margin: 20px 15px;
+  margin: auto;
 }
 
 /* Centers text, adds font/size, makes color black */
 .p {
   text-align: center;
-  margin: 30px;
+  margin: 5px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 18px;
   color: black;
