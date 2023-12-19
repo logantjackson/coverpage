@@ -29,7 +29,6 @@ body {
   font-family: "Chalkduster", fantasy;
   font-size: 25px;
   color: black; 
-  padding: 1px;
 }
 
 /* Aligns container-center, adds margins to each side, makes size 75%, adds darkgrey backround */
@@ -44,7 +43,7 @@ body {
 /* Centers textCont, adds margins, adds width */
 .textCont {
   text-align: center;
-  margin: 30px 15px 30px 15px;
+  margin: 20px 15px 20px 15px;
   width: 15%;
 }
 
