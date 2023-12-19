@@ -1,4 +1,4 @@
-/* Adds backround color */
+t/* Adds backround color */
 body {
   background-color: #ADD8E6;
 }
@@ -13,6 +13,8 @@ body {
    display: block;
   margin-left: auto;
   margin-right: auto;
+  height: auto;
+  padding: auto;
   width: 25%;
 }
 
@@ -34,6 +36,8 @@ body {
   box-align: center;
   margin: 20px 15px 20px 15px
   size: 75%;
+  height: auto;
+  padding: auto;
   background-color: darkgrey;
 }
 
@@ -60,7 +64,7 @@ body {
   color: darkslategrey;
 }
 
-/* Centers footer, adds mfont/size/color */
+/* Centers footer, adds font/size/color */
 .footer {
   text-align: center;
   font-family: Courier New, monospace;
