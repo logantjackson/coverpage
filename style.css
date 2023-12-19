@@ -56,6 +56,15 @@ body {
   color: black;
 }
 
+/* Centers text, adds font/size, makes color black */
+.h3 {
+  text-align: center;
+  margin: 5px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: black;
+}
+
 /* Centers list, adds font/size/color */
 .lists{
   text-align: center;
