@@ -14,6 +14,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 75%;
+  padding: 10px;
 }
 
 /* Allows buulet points inside of pageCont */
@@ -26,7 +27,8 @@ body {
   text-align: center;
   font-family: "Chalkduster", fantasy;
   font-size: 25px;
-  color: black;  
+  color: black; 
+  padding: 10px;
 }
 
 /* Aligns container-center, adds margins to each side, makes size 75%, adds darkgrey backround */
@@ -43,6 +45,7 @@ body {
   text-align: center;
   margin: 30px 30px 30px 30px;
   width: 15%;
+  padding: 10px;
 }
 
 /* Centers text, adds font/size, makes color black */
