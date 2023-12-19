@@ -13,7 +13,6 @@ body {
    display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 50%;
   width: 75%;
   padding: 1px;
 }
@@ -44,7 +43,6 @@ body {
 .textCont {
   text-align: center;
   margin: 20px 15px;
-  width: 15%;
 }
 
 /* Centers text, adds font/size, makes color black */
