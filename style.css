@@ -44,8 +44,8 @@ body {
 /* Centers textCont, adds margins, adds width */
 .textCont {
   box-align: center;
-  margin: 15px 15px 15px 15px;
-  width: 60%;
+  margin: 30px 30px 30px 30px;
+  width: 15%;
 }
 
 /* Centers text, adds font/size, makes color black */
